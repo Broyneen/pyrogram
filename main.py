@@ -5,8 +5,8 @@ import randam
 import os
 
 PHOTO_LINK = [
- "Photo Link",
- "photo Link"
+ "https://telegra.ph/file/c34d09d42700a8a85edf2.jpg",
+ "https://telegra.ph/file/fe162cec8e20318af1adb.jpg"
  ]
 
 Muhammed = Client(
