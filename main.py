@@ -18,7 +18,7 @@ Muhammed = Client(
 
 
 @Muhammed.on_message(filters.command("start")) 
-async def start_message(bot, message)
+async def start_message(bot, message):
     button = [[
       InlineKeyboardButton("Mo Tech YT", callback_data="start")
       ]]
