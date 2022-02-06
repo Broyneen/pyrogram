@@ -39,5 +39,7 @@ async def callback(bot, msg: CallbackQuery):
 
 
 
- muhammed.run()
+ Muhammed.run()
+ 
+
 
